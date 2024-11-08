@@ -1,2 +1,2 @@
 # Learn
-Practice/Learning GitHub
+This is just personal learning workspace.
